@@ -1,0 +1,7 @@
+"customer_id";"customer_ref";"name";"email";"phone";"loginType";"password"
+1;"";"Alex Jose";"alexjose@test.com";"";1;"12qwaszx"
+2;"";"Marc Jacob";"";"9876123456";2;"123qwer"
+3;"";"Sam Pinto";"spinto@gmail.com";"";1;"acvbh00"
+4;"";"Nick K";"nickk@gmail.com";"";1;"mnbvgh87"
+5;"c077aaf2-2a8b-4661-8405-90fe92e7306c";"Diana Vaz";"dianav@test.com";"";1;"12qwaszx"
+6;"4256c2c2-de16-46d8-a3b5-a664f127c612";"Peter N";"peter@test.com";"";1;"12qwaszx"
